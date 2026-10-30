@@ -2,7 +2,7 @@
 
 I build R packages for data engineering, financial planning and analysis, energy, and public data. Most of my work leverages `R` and `DuckDB` but I also use bash and lua.
 
-I do all of my development on [codeberg](www.codeberg.org) but mirror the repos in github. Please direct all issues / pull requests to codeberg.
+I do all of my development on [codeberg](https://codeberg.org/usrbinr) but mirror the repos in github. Please direct all issues / pull requests to codeberg.
 
 If you're interested in collaborating in projects please reach out!
 
