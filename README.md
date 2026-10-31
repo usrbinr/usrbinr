@@ -13,7 +13,7 @@ These packages are stable and available on CRAN.
 | Package | Description | CRAN |
 | ------- | ----------- | ---- |
 | [contoso](https://usrbinr.codeberg.page/contoso/)       | Synthetic sales, customer, store, and product tables from the fictional Contoso company, for practicing analysis and BI | ![CRAN](https://www.r-pkg.org/badges/version/contoso) |
-| [motherduck](https://usrbinr.github.io/motherduck/)     | Utilities for administering and managing 'DuckDB' databases on the 'MotherDuck' cloud platform | ![CRAN](https://www.r-pkg.org/badges/version/motherduck) |
+| [motherduck](https://usrbinr.codeberg.page/motherduck/) | Utilities for administering and managing 'DuckDB' databases on the 'MotherDuck' cloud platform | ![CRAN](https://www.r-pkg.org/badges/version/motherduck) |
 | [sqlm](https://usrbinr.codeberg.page/sqlm/)             | Fit statistical models (lm, glm, ridge, PCA, k-means, trees, and more) inside SQL databases without pulling data into R | ![CRAN](https://www.r-pkg.org/badges/version/sqlm) |
 
 ## Packages under development
@@ -31,10 +31,8 @@ These packages are not on CRAN yet.
 | [tidychain](https://usrbinr.codeberg.page/tidychain/)   | Excel forensics: parse `.xlsx` internals and `calcChain.xml` to decompose models and flag manipulation | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [flixpatrol](https://usrbinr.codeberg.page/flixpatrol/) | R client for the 'FlixPatrol' streaming rankings API | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [tsadata](https://usrbinr.codeberg.page/tsadata/)       | TSA passenger screening data, streamed from 'Cloudflare R2' into 'DuckDB' | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
-| [stwd](https://usrbinr.codeberg.page/stwd/)             | Storytelling with Data layouts and highlighting for ggplot2, with a Shiny layout designer | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [kalshi](https://usrbinr.codeberg.page/kalshi/)         | R client for the Kalshi prediction market API | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
 | [pvwatts](https://usrbinr.codeberg.page/pvwatts/)       | Client for NREL's 'PVWatts' v8 solar production API | ![Static Badge](https://img.shields.io/badge/lifecycle-mostly_stable-aquamarine) |
-| [icbs](https://usrbinr.codeberg.page/icbs/)             | IBCS-style business charts for ggplot2, including variance and waterfall charts | ![Static Badge](https://img.shields.io/badge/lifecycle-experimental-yellow) |
 | [awh](https://usrbinr.codeberg.page/awh/)               | Workflow helpers: 'Cloudflare' R2 storage, database-aware counting, and input validation | ![Static Badge](https://img.shields.io/badge/lifecycle-experimental-yellow) |
 
 ## Coming soon
@@ -43,6 +41,8 @@ These are in progress and not public yet.
 
 | Package | Description |
 | ------- | ----------- |
+| stwd         | Storytelling with Data layouts and highlighting for ggplot2, with a Shiny layout designer |
+| icbs         | IBCS-style business charts for ggplot2, including variance and waterfall charts |
 | pudl         | Query the Public Utility Data Liberation ('PUDL') energy database from S3 via 'DuckDB', with plant economics and emissions analysis |
 | solarfinance | FAST-methodology project finance model for solar power plants |
 | rpsa         | Power system analysis in R (optimal power flow, capacity expansion), inspired by 'PyPSA' |
