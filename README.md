@@ -15,7 +15,7 @@ These packages are stable and available on CRAN.
 | [contoso](https://usrbinr.codeberg.page/contoso/)       | Synthetic sales, customer, store, and product tables from the fictional Contoso company, for practicing analysis and BI | ![CRAN](https://www.r-pkg.org/badges/version/contoso) |
 | [motherduck](https://usrbinr.codeberg.page/motherduck/) | Utilities for administering and managing 'DuckDB' databases on the 'MotherDuck' cloud platform | ![CRAN](https://www.r-pkg.org/badges/version/motherduck) |
 | [sqlm](https://usrbinr.codeberg.page/sqlm/)             | Fit statistical models (lm, glm, ridge, PCA, k-means, trees, and more) inside SQL databases without pulling data into R | ![CRAN](https://www.r-pkg.org/badges/version/sqlm) |
-
+| [ti](https://usrbinr.codeberg.page/ti/)                 | Time intelligence (YoY, MTD, QTD, YTD) and customer segmentation (ABC, cohorts) with retail calendar support, in memory or in database | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 ## Packages under development
 
 These packages are not on CRAN yet.
@@ -26,7 +26,6 @@ These packages are not on CRAN yet.
 
 | Package | Description | Lifecycle |
 | ------- | ----------- | --------- |
-| [ti](https://usrbinr.codeberg.page/ti/)                 | Time intelligence (YoY, MTD, QTD, YTD) and customer segmentation (ABC, cohorts) with retail calendar support, in memory or in database | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [qrtdown](https://usrbinr.codeberg.page/qrtdown/)       | Build R package documentation websites with Quarto instead of pkgdown | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [tidychain](https://usrbinr.codeberg.page/tidychain/)   | Excel forensics: parse `.xlsx` internals and `calcChain.xml` to decompose models and flag manipulation | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
 | [flixpatrol](https://usrbinr.codeberg.page/flixpatrol/) | R client for the 'FlixPatrol' streaming rankings API | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
