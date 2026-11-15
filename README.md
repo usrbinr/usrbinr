@@ -15,7 +15,7 @@ These packages are stable and available on CRAN.
 | [contoso](https://usrbinr.codeberg.page/contoso/)       | Synthetic sales, customer, store, and product tables from the fictional Contoso company, for practicing analysis and BI | ![CRAN](https://www.r-pkg.org/badges/version/contoso) |
 | [motherduck](https://usrbinr.codeberg.page/motherduck/) | Utilities for administering and managing 'DuckDB' databases on the 'MotherDuck' cloud platform | ![CRAN](https://www.r-pkg.org/badges/version/motherduck) |
 | [sqlm](https://usrbinr.codeberg.page/sqlm/)             | Fit statistical models (lm, glm, ridge, PCA, k-means, trees, and more) inside SQL databases without pulling data into R | ![CRAN](https://www.r-pkg.org/badges/version/sqlm) |
-| [ti](https://usrbinr.codeberg.page/ti/)                 | Time intelligence (YoY, MTD, QTD, YTD) and customer segmentation (ABC, cohorts) with retail calendar support, in memory or in database | ![Static Badge](https://img.shields.io/badge/lifecycle-stable-green) |
+| [ti](https://usrbinr.codeberg.page/ti/)                 | Time intelligence (YoY, MTD, QTD, YTD) and customer segmentation (ABC, cohorts) with retail calendar support, in memory or in database | ![CRAN](https://www.r-pkg.org/badges/version/ti)|
 ## Packages under development
 
 These packages are not on CRAN yet.
